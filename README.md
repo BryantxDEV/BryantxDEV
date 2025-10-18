@@ -12,9 +12,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryantxDEV&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" alt="Top Languages" />
   </a>
 
-   <a href="https://github.com/BryantxDEV">
-    <img src="https://github.com/user-attachments/assets/00f27d16-07e5-4c59-af71-828f55d7be06" width="200" alt="Animated gif" style="border-radius: 20px; margin-right: 10px;" />
-  </a>
 </div>
 
 ###
